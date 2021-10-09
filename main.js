@@ -1,0 +1,1 @@
+let Element = document.querySelector(".class");
